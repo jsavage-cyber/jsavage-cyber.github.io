@@ -1,29 +1,24 @@
 ---
 layout: project
-title: "Hello World"
-description: "My first project post!"
-github: https://github.com/jsavage-cyber/your-repo
-tags: [Python, Php, Networking]
+title: "My Website"
+description: "Hello World!"
+github: https://github.com/jsavage-cyber/jsavage-cyber.github.io
+tags: [HTML, CSS, Jekyll]
 ---
 
 ## Overview
 
-My first exmaple project!
+This is my Website! With some inspiration from others online I thought I'd create my own domain and host it on Github!
 
 ## How it works
 
-This is where i will put the juicy stuff!
+This is where I will try to upload the work I do ¯\\\_(ツ)\_/¯
 
 ```python
-# You can include code snippets
 def example():
-    print("Hello from my project")
+    print("Hello World!")
 ```
-crazy code right there!
-## What I learned
+Crazy code right there!
 
-Not much really
+and yes AI has helped a little along the way...
 
-## Challenges
-
-i'm the goat there are no challenges in life!
