@@ -24,7 +24,7 @@ What started as a small home server project has gradually developed into a machi
 | Additional Storage | 2TB HDD | Provides inexpensive additional storage for backups, archived files and server data. |
 | Graphics | Dedicated graphics card (GTX 1070) | Required because the Ryzen 7 5700X has no integrated graphics. Provides display output for installation and troubleshooting. |
 
-![Here is a picture of my build](\images\f5063951-d349-4aaa-ab05-cf2f5e1d91af.jpg)
+![Here is a picture of my build](\images\server-build.jpg)
 
 ## Operating System and Software
 
